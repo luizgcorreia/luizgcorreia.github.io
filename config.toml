@@ -1,4 +1,4 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://luizgcorreia.github.io"
 languageCode = "en-us"
 theme = "aafu"
 
@@ -34,7 +34,7 @@ theme = "aafu"
         name = "Luiz Gabriel Correia"
         tagline = "Master's Student"
         location = "Santo André, SP"
-        photo = "profile.jpg"
+        photo = "profile-lgc.jpg"
 
     # Section for links to social websites
     [params.social]
