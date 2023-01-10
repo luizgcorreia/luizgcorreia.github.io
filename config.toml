@@ -127,6 +127,7 @@ theme = "aafu"
             college = "Federal University of ABC"
             dates = "2014 - 2018"
             thesis_title = "Escalabilidade e possíveis soluções para redes blockchain."
+            thesis_url = "https://drive.google.com/file/d/1-ng6mgjUgTBSulmSSInuVp9ppHn-rjlC/view?usp=sharing"
 
     # Publication section
     [params.publication]
