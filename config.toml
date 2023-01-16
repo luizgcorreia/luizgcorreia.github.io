@@ -121,13 +121,13 @@ theme = "aafu"
             college = "Federal University of ABC"
             dates = "2017 - 2020"
             thesis_title = "Number X - Um Framework Web para simulações interativas de física e matemática."
-            thesis_url = "https://drive.google.com/file/d/1pG1a3TrseKzEWni-lZGcanHNX7RnrjFW/view?usp=share_link"
+            thesis_url = "https://www.researchgate.net/publication/367168136_Number_X_-_Um_Framework_Web_para_simulacoes_interativas_de_fisica_e_matematica"
         [[params.education.list]]
             degree = "B.S. in Science and Technology"
             college = "Federal University of ABC"
             dates = "2014 - 2018"
             thesis_title = "Escalabilidade e possíveis soluções para redes blockchain."
-            thesis_url = "https://drive.google.com/file/d/1-ng6mgjUgTBSulmSSInuVp9ppHn-rjlC/view?usp=sharing"
+            thesis_url = "https://www.researchgate.net/publication/367168268_Escalabilidade_e_possiveis_solucoes_para_redes_blockchain"
 
     # Publication section
     [params.publication]
@@ -149,7 +149,7 @@ theme = "aafu"
             description = "Projeto desenvolvido em Netlogo com objetivo de estudar como medidas bibliométricas e políticas editoriais afetam a evolução das publicações acadêmicas e a capacidade de resolução de problemas das ciência."
         [[params.project.list]]
             title = "Number X"
-            url = "https://drive.google.com/file/d/1pG1a3TrseKzEWni-lZGcanHNX7RnrjFW/view?usp=share_link"
+            url = "https://luizgcorreia.github.io/numberx-pgc"
             description = "Jogo educacional baseado em um motor 3D para simulações de física e matemática."
 
     # Skill section
